@@ -8,7 +8,7 @@ yuztanima programını kullanırken verileri temizlemek için kurulumun yapıld�
 
 silmelisiniz.
 
-Yüz tarama yaparken ad ve soyadı ve noyu bitişik ve ingilizce karakter kullanın.
+Yüz tarama yaparken ad ve soyadı ve noyu bitişik ve İngilizce karakter kullanın.
 
 Yüz tanıma yaparken yüzünüzün adı ekranda çıktıktan sonra Yoklama Al tuşuna basın. 
 Adınız sağ altta textboxta çıkmalı.
